@@ -15,6 +15,10 @@ export default {
 			fontSize: {
 				'customSmall': '0.5rem',
 			},
+
+			boxShadow:{
+				'custom-colored': '0px 0px 50px -1px rgba(147, 51, 234, 0.8)',
+			}
 		},
 	},
 	plugins: [],
